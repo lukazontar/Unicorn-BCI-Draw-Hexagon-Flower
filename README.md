@@ -1,0 +1,5 @@
+- 
+- TOREK, 19.9.2023 
+- NAVODILA "Vpisite emso, ki se pretvori tako in se nikamor ne shranjuje."
+- Kalibracija (3-4 znake)
+- dva screena (zvezda povecana, hostesa + ), izbiranje med ekrani  
