@@ -17,9 +17,9 @@ This repository contains folders:
 
 *Link to Original Idea Article*: [here](./docs/report/Art_project_using_brain_interface_to_draw_a_hexagon_flower.pdf)
 *Link to BCI User Manual*: [here](./docs/UnicornSuite-UserManual.pdf)
-*Link to Project Usage Instructions*: [here](./docs/Usage Instructions.pdf)
+*Link to Project Usage Instructions*: [here](./docs/User Instructions - EN.pdf)
 
-Unicorn Spller Board can be found in `./docs/unicorn_speller_board/SpellerBoard.ibc` file.
+Unicorn Speller Board can be found in `./docs/unicorn_speller_board/SpellerBoard.ibc` file.
 
 # Computer specifications :computer:
 
